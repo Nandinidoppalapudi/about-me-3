@@ -21,4 +21,18 @@ Editors: Visual Studio:
 Windows Interface for Git:
 - [Tortoise Git](https://tortoisegit.org)
 
+## Recommended Resources
+The following are some resources that i use and refer very often to learn web development frameworks and languages:
+
+1. Code Project:
+Code project is a website where all the developers and experts contribute their code,publish technical content which are helpful for everyone.
+- [Code Project](https://www.codeproject.com)
+
+2.W3schools
+W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP etc.This is the website which i often use everytime.
+-[W3Schools](https://www.w3schools.com)
+
+3.StackSkills
+StackSkills is a e-learning website where there are hundreds of courses and videos to gain knowledge on web development.
+-[StackSkills](https://stackskills.com)
 
