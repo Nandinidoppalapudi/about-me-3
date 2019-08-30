@@ -15,7 +15,8 @@ WEB BROWSER : Google Chrome
 - [Google Chrome](https://www.google.com/chrome/)
 Editors: Visual Studio
 - [Visual Studio](https://visualstudio.microsoft.com)
-Windows Interface for Git
+
+Windows Interface for Git:
 - [Tortoise Git](https://tortoisegit.org)
 
 
