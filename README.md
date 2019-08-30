@@ -31,10 +31,10 @@ Code project is a website where all the developers and experts contribute their 
 2.W3schools
 W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP etc.This is the website which i often use everytime.
 
--[W3Schools](https://www.w3schools.com)
+- [W3Schools](https://www.w3schools.com)
 
 3.StackSkills
 StackSkills is a e-learning website where there are hundreds of courses and videos to gain knowledge on web development.
 
--[StackSkills](https://stackskills.com)
+- [StackSkills](https://stackskills.com)
 
