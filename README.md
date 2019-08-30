@@ -13,7 +13,8 @@ Git mostly use markdown language and html.Markdown is lightweight and has easy s
 Inorder to publish a repository with github pages, The following are some tools used:
 WEB BROWSER : Google Chrome
 - [Google Chrome](https://www.google.com/chrome/)
-Editors: Visual Studio
+
+Editors: Visual Studio:
 - [Visual Studio](https://visualstudio.microsoft.com)
 
 Windows Interface for Git:
